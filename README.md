@@ -70,7 +70,7 @@ This project was built to deeply understand:
 
 ### Backend
 * **Java 21**
-* **Spring Boot 3** (Web, Security, Data MongoDB)
+* **Spring Boot 3.5.9** (Web, Security, Data MongoDB)
 * **MongoDB Atlas** (Cloud Database)
 * **Docker** (Containerization)
 
